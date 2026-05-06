@@ -1,4 +1,4 @@
-package 数组;
+package src.main.java.javase.数组;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
